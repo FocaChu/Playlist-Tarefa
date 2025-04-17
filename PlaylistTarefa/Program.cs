@@ -48,7 +48,7 @@ namespace PlaylistExercicio
         {
             while (true)
             {
-                Console.WriteLine("*** Bem vindo! ***\n");
+                Console.WriteLine("\n*** Bem vindo! ***\n");
 
                 Console.WriteLine("1 - Cadastrar Música. \n2 - Ver Lista de Músicas. \n3 - Remover Música. \n4 - Criar Playlist. \n5 - Ver Playlists. \n6 - Modificar Playlists. \n7 - Remover Playlists. \n0 - Sair.");
                 int menu = 0;
